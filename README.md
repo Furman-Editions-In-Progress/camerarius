@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Camerarius 1668
 
-You can use the [editor on GitHub](https://github.com/Furman-Editions-In-Progress/camerarius/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+View the project’s website at <https://furman-editions-in-progress.github.io/camerarius/>.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+About the project…
 
-### Markdown
+### Project Collaborators
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Chiara Palladino
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Links and Thumbnails
 
-- Bulleted
-- List
+These pages contain links to the [Image Citation Tool (ICT2)](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:fufolio:camerarius1668.2020a:01_00002), developed by Christopher Blackwell for the [Homer Multitext Project](www.homermultitext.org). This tool allows users to generated **canonical citations** to specific regions-of-interest on images.
 
-1. Numbered
-2. List
+- [Praefatio (and Covers)](praef_thumbs.md)
+- [Volume 1](vol1_thumbs.md)
+- [Volume 2](vol2_thumbs.md)
+- [Volume 3](vol3_thumbs.md)
+- [Volume 4](vol4_thumbs.md)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Furman-Editions-In-Progress/camerarius/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
