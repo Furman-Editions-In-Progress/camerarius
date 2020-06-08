@@ -6,6 +6,7 @@ About the project…
 
 ### Project Collaborators
 
+- Allyson Stevens
 - Chiara Palladino
 
 
