@@ -2,7 +2,9 @@
 
 View the project’s website at <https://furman-editions-in-progress.github.io/camerarius/>.
 
-About the project…
+### About the project
+
+Joachim Camerarius the Younger was a German botanist, zoologist, and humanist scholar. He first published the Symbola et emblemata in 1590 but republished later updated editions in 1595, 1596, and 1604. His son Ludwig published a posthumous edition of this work adding aquatic animals and reptiles. The goal of this project is to use the Homer multitext image citation tool to identify and annotate Greek and Latin citations from classic works and to annotate the works and to translate the text in English. The final outcome will be to create a reader-friendly version of the text with annotations and a line-by-line translation of the text.
 
 ### Project Collaborators
 
