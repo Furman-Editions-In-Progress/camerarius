@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/Joachim_Camerarius_the_Younger
 
 - Allyson Stevens
 - Chiara Palladino
-
+- Christopher Blackwell
 
 ### Links and Thumbnails
 
