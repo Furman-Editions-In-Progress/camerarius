@@ -9,9 +9,9 @@ https://en.wikipedia.org/wiki/Joachim_Camerarius_the_Younger
 
 ### Project Collaborators
 
-- Allyson Stevens
-- Chiara Palladino
-- Christopher Blackwell
+- Allyson Stevens (allyson.stevens@furman.edu)
+- Chiara Palladino (chiara.palladino@furman.edu)
+- Christopher Blackwell (christopher.blackwell@furman.edu)
 
 ### Links and Thumbnails
 
