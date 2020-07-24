@@ -34,18 +34,18 @@ These pages contain links to the [Image Citation Tool (ICT2)](http://www.homermu
 <gr>tw=|  w/dahzw=nh tou= lo/gou</gr>
 ~~~
 * Text in another language than Latin is encoded in an XML-like notation, with the appropriate language code, e.g. 
+for French,
 ~~~
 <fr>...</fr>
 ~~~ 
-for French, 
+for German, 
 ~~~
 <de>...</de>
 ~~~
-for German, 
+for Ancient Greek, 
 ~~~
 <gr>...</gr>
 ~~~
-for Ancient Greek.
 * Special characters in Latin, e.g. strange accented letters, diphthongs, etc., are always transcribed with the corresponding Unicode character.
 
 
