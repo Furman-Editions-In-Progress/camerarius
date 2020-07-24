@@ -23,3 +23,14 @@ These pages contain links to the [Image Citation Tool (ICT2)](http://www.homermu
 - [Volume 3](vol3_thumbs.md)
 - [Volume 4](vol4_thumbs.md)
 
+### Basic rules for transcription (in progress)
+
+* End-of-line hyphens are not included.
+* Page footers containing the first three letters of the following page are not included.
+* Accents in Latin are always included in the transcription.
+* Abbreviations and compendia are generally solved (e.g. & = "et").
+* Text in Ancient Greek is in Betacode, e.g. 1.2.5: <gr>tw=|  w/dahzw=nh tou= lo/gou</gr>
+* Text in another language than Latin is encoded in an XML-like notation, with the appropriate language code, e.g. <fr>...</fr> for French, <de>...</de> for German, <gr>...</gr> for Ancient Greek.
+* Special characters in Latin, e.g. strange accented letters, diphthongs, etc., are always transcribed with the corresponding Unicode character.
+
+
