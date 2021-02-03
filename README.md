@@ -51,3 +51,7 @@ for Ancient Greek,
 * Special characters in Latin, e.g. strange accented letters, diphthongs, etc., are always transcribed with the corresponding Unicode character.
 
 
+### Credits
+
+This project was made possible with the support of the Furman Office for Undergraduate Research, and with the generous sponsorship of the [Furman Humanities Center](https://www.furman.edu/humanities-center/). 
+
