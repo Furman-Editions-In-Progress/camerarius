@@ -2,7 +2,7 @@
 
 View the project’s website at <https://furman-editions-in-progress.github.io/camerarius/>.
 
-Validation pipeline: https://github.com/Furman-Editions-In-Progress/camerarius-notebooks.
+Validation pipeline: https://mybinder.org/v2/gh/Furman-Editions-In-Progress/camerarius-notebooks/master (see https://github.com/Furman-Editions-In-Progress/camerarius-notebooks).
 
 ### About the project
 
