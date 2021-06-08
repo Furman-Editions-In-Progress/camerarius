@@ -12,6 +12,7 @@ https://en.wikipedia.org/wiki/Joachim_Camerarius_the_Younger
 ### Project Collaborators
 
 - Allyson Stevens (allyson.stevens@furman.edu)
+- Mallory Tutterrow (mallory.tutterrow@furman.edu)
 - Chiara Palladino (chiara.palladino@furman.edu)
 - Christopher Blackwell (christopher.blackwell@furman.edu)
 
