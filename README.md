@@ -13,6 +13,7 @@ https://en.wikipedia.org/wiki/Joachim_Camerarius_the_Younger
 
 - Allyson Stevens (allyson.stevens@furman.edu)
 - Mallory Tutterrow (mallory.tutterrow@furman.edu)
+- Bella Dickenson (bella.dickenson@furman.edu)
 - Chiara Palladino (chiara.palladino@furman.edu)
 - Christopher Blackwell (christopher.blackwell@furman.edu)
 
