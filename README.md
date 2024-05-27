@@ -14,8 +14,18 @@ https://en.wikipedia.org/wiki/Joachim_Camerarius_the_Younger
 - Allyson Stevens (allyson.stevens@furman.edu)
 - Mallory Tutterrow (mallory.tutterrow@furman.edu)
 - Bella Dickenson (bella.dickenson@furman.edu)
+- Kathryn Wilson (wilska2@furman.edu) 
 - Chiara Palladino (chiara.palladino@furman.edu)
 - Christopher Blackwell (christopher.blackwell@furman.edu)
+
+## New workflow: transitioning onto Transkribus 
+As of 2024, the project will transition on the Transkribus app (transkribus.org).  
+Useful tutorials and instructions are on the Youtube channel of Transkribus: https://www.youtube.com/@transkribus/videos.   
+
+Our transcription guidelines will be updated as we continue. 
+
+
+# Old Materials 
 
 ### Links and Thumbnails
 
