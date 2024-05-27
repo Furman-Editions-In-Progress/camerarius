@@ -34,6 +34,7 @@ Our transcription guidelines will be updated as we continue.
 * Camerarius Image URNs: https://docs.google.com/spreadsheets/d/1WX_SZtPyz0f1dX3gAalmoh1dVFffiqyaKJeE4sLQ_pQ/edit?usp=sharing
 * Camerarius Index Locorum: https://docs.google.com/spreadsheets/d/1lcKZ7UX2_vRTesgu8qfMnzODWJGdDE-W4E795d5yKKQ/edit?usp=sharing
 * Camerarius Text: https://docs.google.com/spreadsheets/d/1xPo3x3bcssHrFTWXTcw08dGe3xXxa9OCOQytn5ICS5Q/edit?usp=sharing
+* Text to Image: https://docs.google.com/spreadsheets/d/11vJuQE7_oPDrIlFYzqoBMRlDuichan3eDXxsXenBP24/edit?usp=sharing
 
 ### Links and Thumbnails
 
