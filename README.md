@@ -27,6 +27,14 @@ Our transcription guidelines will be updated as we continue.
 
 # Old Materials 
 
+### Original Google Spreadsheets: 
+
+* Camerarius 1668 Page URNS: https://docs.google.com/spreadsheets/d/1q4hoO3565ZhWyXUA1Z3gejTgB7Pn-T0DqP9wTkdjLuM/edit?usp=sharing
+* Captioned Figure: https://docs.google.com/spreadsheets/d/1jslymhAMJLaWMka5gswxHE1MTH8JZRp3B831w6UPfnA/edit?usp=sharing
+* Camerarius Image URNs: https://docs.google.com/spreadsheets/d/1WX_SZtPyz0f1dX3gAalmoh1dVFffiqyaKJeE4sLQ_pQ/edit?usp=sharing
+* Camerarius Index Locorum: https://docs.google.com/spreadsheets/d/1lcKZ7UX2_vRTesgu8qfMnzODWJGdDE-W4E795d5yKKQ/edit?usp=sharing
+* Camerarius Text: https://docs.google.com/spreadsheets/d/1xPo3x3bcssHrFTWXTcw08dGe3xXxa9OCOQytn5ICS5Q/edit?usp=sharing
+
 ### Links and Thumbnails
 
 These pages contain links to the [Image Citation Tool (ICT2)](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:fufolio:camerarius1668.2020a:01_00002), developed by Christopher Blackwell for the [Homer Multitext Project](www.homermultitext.org). This tool allows users to generated **canonical citations** to specific regions-of-interest on images.
