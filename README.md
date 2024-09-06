@@ -2,8 +2,6 @@
 
 View the project’s website at <https://furman-editions-in-progress.github.io/camerarius/>.
 
-Validation pipeline: https://mybinder.org/v2/gh/Furman-Editions-In-Progress/camerarius-notebooks/master (see https://github.com/Furman-Editions-In-Progress/camerarius-notebooks).
-
 ### About the project
 
 Joachim Camerarius the Younger was a German botanist, zoologist, and humanist scholar. He first published the Symbola et Emblemata in 1590 but republished later updated editions in 1595, 1596, and 1604. His son Ludwig published a posthumous edition of this work adding aquatic animals and reptiles. The 1668 edition is divided into four "centuria", each focusing on a specific category. Centuria I is an entirely botanical piece, centuria II focuses on animals, centuria III on birds, reptiles and insects and centuria IV on aquatic animals and reptiles. The goal of this project is to use the Homer multitext image citation tool to identify and annotate Greek and Latin citations from classic works and to annotate the works and to translate the text in English. The final outcome will be to create a reader-friendly version of the text with annotations and a line-by-line translation of the text.
