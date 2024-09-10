@@ -1,8 +1,10 @@
 ## Welcome to the Digital Camerarius Project
 
-This is an Undergraduate Research Project at Furman University. It started in 2019 with the goal of transcribing, annotating and identifying references to Classical Greek and Latin works in Joachim Camerarius' <i>Symbola et Emblemata</i>. The final deliverable of the project will include a reader-friendly version of the text with transcription, annotations and translation. 
+The Digital Camerarius Project is an Undergraduate Research Project at Furman University. It started in 2019 with the goal of transcribing, annotating and identifying references to Classical Greek and Latin works in Joachim Camerarius' <i>Symbola et Emblemata</i>. The final deliverable of the project will include a reader-friendly version of the text with transcription, annotations and translation. 
 
 View the project’s website at <https://furman-editions-in-progress.github.io/camerarius/>.
+
+Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb10575861
 
 ### About Camerarius
 
