@@ -28,9 +28,9 @@ As of 2024, the project has transitioned on Transkribus (https://transkribus.eu/
 
 ## Structure of this repository
 
-* A User Guide to Transkribus by Kathryn Wildon is available here: https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/transcription-guidelines.md
-* An in-progress Guide to shorthand symbols in Greek and Latin, by Kathryn Wilson, is available here: https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/shorthand-guide.md 
-* In-progress transcription guidelines will contain instructions specifically about Camerarius, use of pertinent tags, and strategies to record quotations and citations: https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/transcription-guidelines.md 
+* A *User Guide to Transkribus* by Kathryn Wilson is available here: https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/transcription-guidelines.md
+* An *in-progress Guide to shorthand* symbols in Greek and Latin, by Kathryn Wilson, is available here: https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/shorthand-guide.md 
+* In-progress *Transcription Guidelines* will contain instructions specifically about Camerarius, use of pertinent tags, and strategies to record quotations and citations: https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/transcription-guidelines.md 
 
 
 The individual pages of Camerarius can be seen through the HMT Image Transcription Tool: 
