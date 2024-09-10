@@ -4,7 +4,7 @@ The Digital Camerarius Project is an Undergraduate Research Project at Furman Un
 
 View the project’s website at <https://furman-editions-in-progress.github.io/camerarius/>.
 
-View a complete scan of the 1668 Edition through the Münchener Digitale Bibliothek: https://www.digitale-sammlungen.de/en/details/bsb10575861
+View a complete scan of the 1668 Edition through the [Münchener Digitale Bibliothek](https://www.digitale-sammlungen.de/en/details/bsb10575861).
 
 ### About Camerarius
 
