@@ -4,7 +4,7 @@ The Digital Camerarius Project is an Undergraduate Research Project at Furman Un
 
 View the project’s website at <https://furman-editions-in-progress.github.io/camerarius/>.
 
-Complete scan of the Book: https://www.digitale-sammlungen.de/en/details/bsb10575861
+View a complete scan of the 1668 Edition through the Münchener Digitale Bibliothek: https://www.digitale-sammlungen.de/en/details/bsb10575861
 
 ### About Camerarius
 
@@ -24,14 +24,22 @@ See also: https://en.wikipedia.org/wiki/Joachim_Camerarius_the_Younger
 
 The project originally started as a part of the Homer Multitext Project, using the CITE Architecture and related technologies to transcribe the text (see further: https://www.homermultitext.org/). 
 
+As of 2024, the project has transitioned on Transkribus (https://transkribus.eu/Transkribus/). For an overview of our transcription tags and guidelines, see the Guidelines in this repository. 
+
+## Structure of this repository
+
+* A User Guide to Transkribus by Kathryn Wildon is available here: https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/transcription-guidelines.md
+* An in-progress Guide to shorthand symbols in Greek and Latin, by Kathryn Wilson, is available here: https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/shorthand-guide.md 
+* In-progress transcription guidelines will contain instructions specifically about Camerarius, use of pertinent tags, and strategies to record quotations and citations: https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/transcription-guidelines.md 
+
+
 The individual pages of Camerarius can be seen through the HMT Image Transcription Tool: 
 - [Praefatio (and Covers)](praef_thumbs.md)
 - [Volume 1](vol1_thumbs.md)
 - [Volume 2](vol2_thumbs.md)
 - [Volume 3](vol3_thumbs.md)
-- [Volume 4](vol4_thumbs.md)
-
-As of 2024, the project has transitioned on Transkribus (transkribus.org). For an overview of our transcription tags and guidelines, see the Guidelines in this repository. 
+- [Volume 4](vol4_thumbs.md)  
+To review past transcriptions available in the "data" folder of this repository, see https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/review-past-transcriptions.md 
 
 ### Acknowledgements
 
