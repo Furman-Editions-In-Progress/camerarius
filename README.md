@@ -39,6 +39,7 @@ The individual pages of Camerarius can be seen through the HMT Image Transcripti
 - [Volume 2](vol2_thumbs.md)
 - [Volume 3](vol3_thumbs.md)
 - [Volume 4](vol4_thumbs.md)  
+
 To review past transcriptions available in the "data" folder of this repository, see https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/review-past-transcriptions.md 
 
 ### Acknowledgements
