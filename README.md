@@ -13,10 +13,10 @@ See also: https://en.wikipedia.org/wiki/Joachim_Camerarius_the_Younger
 
 ### Project Collaborators
 
-- 2019-2021: Allyson Stevens (allyson.stevens@furman.edu)
-- 2021-2022: Mallory Tutterrow (mallory.tutterrow@furman.edu)
-- 2022-2023: Bella Dickenson (bella.dickenson@furman.edu)
 - 2023-2024: Kathryn Wilson (wilska2@furman.edu) 
+- 2022-2023: Bella Dickenson (bella.dickenson@furman.edu)
+- 2021-2022: Mallory Tutterrow (mallory.tutterrow@furman.edu)
+- 2019-2021: Allyson Stevens (allyson.stevens@furman.edu)
 - Project Manager: Chiara Palladino (chiara.palladino@furman.edu)
 - With special thanks to: Christopher Blackwell (christopher.blackwell@furman.edu)
 
