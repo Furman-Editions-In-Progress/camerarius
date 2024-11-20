@@ -28,7 +28,7 @@ As of 2024, the project has transitioned on [Transkribus](https://transkribus.eu
 
 ## Structure of this repository
 
-* [A *User Guide to Transkribus* by Kathryn Wilson](https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/transcription-guidelines.md)
+* [A *User Guide to Transkribus* by Kathryn Wilson](https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/how-to-use-transkribus.md)
 * [An *in-progress Guide to shorthand* symbols](https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/shorthand-guide.md) in Greek and Latin, by Kathryn Wilson. 
 * [In-progress *Transcription Guidelines*](https://github.com/Furman-Editions-In-Progress/camerarius/blob/master/transcription-guidelines.md) will contain instructions specifically about Camerarius, use of pertinent tags, and strategies to record quotations and citations. 
 
