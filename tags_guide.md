@@ -1,6 +1,6 @@
 # Guide on how to use tags on Camerarius
 
-Note: Pages 14 and 15 have been set as **Ground Truth**, they should be used as examples on how to use the tags. 
+Note: Pages 14 and 15 have been set as **Ground Truth**, they should be used as examples on how to use the tags. See [them here](https://app.transkribus.eu/share/029c643deedd895dd8a7c7d3ac3bb4b4)
 
 
 ### Structural Tags
